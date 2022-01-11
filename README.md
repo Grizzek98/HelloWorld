@@ -4,7 +4,7 @@ This software is an example of the basic Hello World program. It simply prints "
 
 My goal was to refamiliarize myself with VSCode, Python, and Git/GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jasfoHEFov0)
 
 # Development Environment
 
